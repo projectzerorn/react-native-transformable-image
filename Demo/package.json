@@ -8,6 +8,6 @@
   "dependencies": {
     "react": "15.2.1",
     "react-native": "^0.29.2",
-    "react-native-transformable-image": "0.0.18"
+    "react-native-transformable-image": "git+https://github.com/projectzerorn/react-native-view-transformer.git"
   }
 }
